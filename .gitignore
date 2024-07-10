@@ -1,3 +1,6 @@
+# Custom
+/json/*.json
+
 # Logs
 logs
 *.log
