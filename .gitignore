@@ -1,5 +1,7 @@
 # Custom
 /json/*.json
+/task.txt
+/task2.txt
 
 # Logs
 logs
